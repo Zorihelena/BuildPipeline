@@ -1,0 +1,21 @@
+Proyecto PUZZLE-8 (Inteligencia Artificial)
+PROF. CARLOS OGANDO, ITLA
+---------------------------------------------------------------------
+CASOS DE PRUEBA EN EL GRADER PARA ARCHIVO grupo_keury_sec3.py
+---------------------------------------------------------------------
+
+ * PORCENTAJE DE ÉXITO: 0/15 = 0.0%
+ * CANTIDAD DE RESPUESTAS CORRECTAS: 0
+ * CANTIDAD DE CASOS DE PRUEBA: 15
+
+ * TIEMPO TRANSCURRIDO: 0 mins. y 0.184 segs.
+ * TIEMPO LÍMITE: 10 mins.
+
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ ¡ HUBO UN ERROR EN EJECUCIÓN !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ >>>>>> $ ERROR TYPE: <class 'ModuleNotFoundError'>
+ >>>>>> $ ERROR VAL: No module named 'google'
+ >>>>>> $ ERROR TB: <traceback object at 0x0000028649ABF580>
+COD-SET: PZ8-10

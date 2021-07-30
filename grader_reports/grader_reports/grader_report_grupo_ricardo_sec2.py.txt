@@ -1,0 +1,38 @@
+Proyecto PUZZLE-8 (Inteligencia Artificial)
+PROF. CARLOS OGANDO, ITLA
+---------------------------------------------------------------------
+CASOS DE PRUEBA EN EL GRADER PARA ARCHIVO grupo_ricardo_sec2.py
+---------------------------------------------------------------------
+
+ * PORCENTAJE DE ÉXITO: 0/15 = 0.0%
+ * CANTIDAD DE RESPUESTAS CORRECTAS: 0
+ * CANTIDAD DE CASOS DE PRUEBA: 15
+
+ * TIEMPO TRANSCURRIDO: 549 mins. y 22.741 segs.
+ * TIEMPO LÍMITE: 10 mins.
+
+CASO DE PRUEBA 0 >> INCORRECTO
+   CP0-0 path_to_goal INCORRECTO
+   CP0-1 cost_of_path INCORRECTO
+   CP0-2 nodes_expanded INCORRECTO
+   CP0-3 search_depth INCORRECTO
+   CP0-4 max_search_depth INCORRECTO
+
+CASO DE PRUEBA 1 >> INCORRECTO
+   CP1-0 path_to_goal INCORRECTO
+   CP1-1 cost_of_path INCORRECTO
+   CP1-2 nodes_expanded INCORRECTO
+   CP1-3 search_depth INCORRECTO
+   CP1-4 max_search_depth INCORRECTO
+
+CASO DE PRUEBA 2 >> INCORRECTO
+   CP2-0 path_to_goal INCORRECTO
+   CP2-1 cost_of_path INCORRECTO
+   CP2-2 nodes_expanded INCORRECTO
+   CP2-3 search_depth INCORRECTO
+   CP2-4 max_search_depth INCORRECTO
+
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ ¡ LÍMITE DE TIEMPO EXCEDIDO !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+COD-SET: PZ8-10

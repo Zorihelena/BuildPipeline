@@ -1,0 +1,17 @@
+Proyecto PUZZLE-8 (Inteligencia Artificial)
+PROF. CARLOS OGANDO, ITLA
+---------------------------------------------------------------------
+CASOS DE PRUEBA EN EL GRADER PARA ARCHIVO grupo_angel_sec2.py
+---------------------------------------------------------------------
+
+ * PORCENTAJE DE ÉXITO: 0/15 = 0.0%
+ * CANTIDAD DE RESPUESTAS CORRECTAS: 0
+ * CANTIDAD DE CASOS DE PRUEBA: 15
+
+ * TIEMPO TRANSCURRIDO: 10 mins.
+ * TIEMPO LÍMITE: 10 mins.
+
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ ¡ LÍMITE DE TIEMPO EXCEDIDO !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+COD-SET: PZ8-9

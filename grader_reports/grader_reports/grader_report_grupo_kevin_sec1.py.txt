@@ -1,0 +1,65 @@
+Proyecto PUZZLE-8 (Inteligencia Artificial)
+PROF. CARLOS OGANDO, ITLA
+---------------------------------------------------------------------
+CASOS DE PRUEBA EN EL GRADER PARA ARCHIVO grupo_kevin_sec1.py
+---------------------------------------------------------------------
+
+ * PORCENTAJE DE ÉXITO: 10/15 = 66.67%
+ * CANTIDAD DE RESPUESTAS CORRECTAS: 10
+ * CANTIDAD DE CASOS DE PRUEBA: 15
+
+ * TIEMPO TRANSCURRIDO: 9 mins. y 54.666 segs.
+ * TIEMPO LÍMITE: 10 mins.
+
+CASO DE PRUEBA 0 >> INCORRECTO
+   CP0-0 path_to_goal INCORRECTO
+	Should be path_to_goal: ['Left', 'Up', 'Up', 'Left', 'Down', 'Right', 'Down', 'Left', 'Up', 'Right', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Right', 'Up', 'Left', 'Down', 'Down', 'Right', 'Up', 'Left', 'Up', 'Left'] not path_to_goal: ['Left', 'Up', 'Left', 'Up', 'Right', 'Right', 'Down', 'Left', 'Left', 'Up', 'Right', 'Right', 'Down', 'Left', 'Down', 'Left', 'Up', 'Up', 'Right', 'Down', 'Down', 'Right', 'Up', 'Left', 'Left', 'Up']
+   CP0-2 nodes_expanded INCORRECTO
+   CP0-4 max_search_depth INCORRECTO
+	Should be max_search_depth: 26 not max_search_depth: 27
+
+CASO DE PRUEBA 1 >> CORRECTO
+
+CASO DE PRUEBA 2 >> CORRECTO
+
+CASO DE PRUEBA 3 >> INCORRECTO
+   CP3-2 nodes_expanded INCORRECTO
+   CP3-4 max_search_depth INCORRECTO
+	Should be max_search_depth: 20 not max_search_depth: 21
+
+CASO DE PRUEBA 4 >> CORRECTO
+
+CASO DE PRUEBA 5 >> CORRECTO
+
+CASO DE PRUEBA 6 >> INCORRECTO
+   CP6-0 path_to_goal INCORRECTO
+	Should be path_to_goal: ['Right', 'Up', 'Right', 'Down', 'Left', 'Left', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Down', 'Left', 'Up', 'Up', 'Right', 'Right', 'Down', 'Left', 'Left', 'Up'] not path_to_goal: ['Up', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Down', 'Left', 'Up', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Down', 'Left', 'Up']
+   CP6-2 nodes_expanded INCORRECTO
+   CP6-4 max_search_depth INCORRECTO
+	Should be max_search_depth: 22 not max_search_depth: 23
+
+CASO DE PRUEBA 7 >> CORRECTO
+
+CASO DE PRUEBA 8 >> CORRECTO
+
+CASO DE PRUEBA 9 >> INCORRECTO
+   CP9-0 path_to_goal INCORRECTO
+	Should be path_to_goal: ['Right', 'Up', 'Left', 'Down', 'Down', 'Right', 'Up', 'Up', 'Left', 'Down', 'Left', 'Down', 'Right', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Right', 'Up', 'Up', 'Left', 'Down', 'Left', 'Up'] not path_to_goal: ['Left', 'Up', 'Right', 'Right', 'Down', 'Left', 'Left', 'Up', 'Right', 'Down', 'Down', 'Left', 'Up', 'Up', 'Right', 'Down', 'Down', 'Right', 'Up', 'Up', 'Left', 'Down', 'Down', 'Left', 'Up', 'Up']
+   CP9-2 nodes_expanded INCORRECTO
+   CP9-4 max_search_depth INCORRECTO
+	Should be max_search_depth: 26 not max_search_depth: 27
+
+CASO DE PRUEBA 10 >> CORRECTO
+
+CASO DE PRUEBA 11 >> CORRECTO
+
+CASO DE PRUEBA 12 >> INCORRECTO
+   CP12-2 nodes_expanded INCORRECTO
+   CP12-4 max_search_depth INCORRECTO
+	Should be max_search_depth: 22 not max_search_depth: 23
+
+CASO DE PRUEBA 13 >> CORRECTO
+
+CASO DE PRUEBA 14 >> CORRECTO
+
+COD-SET: PZ8-6

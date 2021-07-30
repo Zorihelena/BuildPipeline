@@ -1,0 +1,21 @@
+Proyecto PUZZLE-8 (Inteligencia Artificial)
+PROF. CARLOS OGANDO, ITLA
+---------------------------------------------------------------------
+CASOS DE PRUEBA EN EL GRADER PARA ARCHIVO grupo_justin_sec3.py
+---------------------------------------------------------------------
+
+ * PORCENTAJE DE ÉXITO: 0/15 = 0.0%
+ * CANTIDAD DE RESPUESTAS CORRECTAS: 0
+ * CANTIDAD DE CASOS DE PRUEBA: 15
+
+ * TIEMPO TRANSCURRIDO: 0 mins. y 1.087 segs.
+ * TIEMPO LÍMITE: 10 mins.
+
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ ¡ HUBO UN ERROR EN EJECUCIÓN !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ >>>>>> $ ERROR TYPE: <class 'FileNotFoundError'>
+ >>>>>> $ ERROR VAL: [WinError 2] El sistema no puede encontrar el archivo especificado
+ >>>>>> $ ERROR TB: <traceback object at 0x00000286490B2CC0>
+COD-SET: PZ8-10

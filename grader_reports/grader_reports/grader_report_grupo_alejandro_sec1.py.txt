@@ -1,0 +1,21 @@
+Proyecto PUZZLE-8 (Inteligencia Artificial)
+PROF. CARLOS OGANDO, ITLA
+---------------------------------------------------------------------
+CASOS DE PRUEBA EN EL GRADER PARA ARCHIVO grupo_alejandro_sec1.py
+---------------------------------------------------------------------
+
+ * PORCENTAJE DE ÉXITO: 0/15 = 0.0%
+ * CANTIDAD DE RESPUESTAS CORRECTAS: 0
+ * CANTIDAD DE CASOS DE PRUEBA: 15
+
+ * TIEMPO TRANSCURRIDO: 0 mins. y 3.493 segs.
+ * TIEMPO LÍMITE: 10 mins.
+
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ ¡ HUBO UN ERROR EN EJECUCIÓN !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ >>>>>> $ ERROR TYPE: <class 'NameError'>
+ >>>>>> $ ERROR VAL: name 'Node1' is not defined
+ >>>>>> $ ERROR TB: <traceback object at 0x0000012D2B529500>
+COD-SET: PZ8-9
